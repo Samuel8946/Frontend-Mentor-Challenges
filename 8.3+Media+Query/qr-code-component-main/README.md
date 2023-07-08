@@ -22,9 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Samuel8946/Frontend-Mentor-Challenges/blob/main/8.3%2BMedia%2BQuery/qr-code-component-main/index.html)
+- Solution URL: [Click here](https://github.com/Samuel8946/Frontend-Mentor-Challenges/blob/main/8.3%2BMedia%2BQuery/qr-code-component-main/index.html)
 
-- Live Site URL: [Add live site URL here](https://samuel8946.github.io/Frontend-Mentor-Challenges/8.3+Media+Query/qr-code-component-main/)
+- Live Site URL: [Click here for preview](https://samuel8946.github.io/Frontend-Mentor-Challenges/8.3+Media+Query/qr-code-component-main/)
 
 ## My process
 
