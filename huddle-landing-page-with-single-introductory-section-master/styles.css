@@ -63,6 +63,7 @@ body {
     border-width: 1px;
     border-radius: 50%;
     padding: 10px 10px 10px 10px;
+    transition: color 0.1s;
   }
 
   .icon-f {
@@ -70,6 +71,15 @@ body {
     border-width: 1px;
     border-radius: 50%;
     padding: 10px 13px 10px 13px;
+    transition: color 0.1s;
+  }
+
+  .icon:hover {
+    color: hsl(300, 69%, 71%);
+  }
+  
+  .icon-f:hover {
+    color: hsl(300, 69%, 71%);
   }
 
   .attribution { 
@@ -77,5 +87,26 @@ body {
   }
 
   .attribution a {
-    color: hsl(228, 45%, 44%); 
+    color: hsl(106, 83%, 45%); 
+  }
+
+  @media (max-width: 1000px) {
+    .logo {
+      width: 150px;
+    }
+
+    .outer-container {
+      flex-direction: column;
+      text-align: center;
+      margin-right: 50px;
+    }
+
+    .text-content {
+      margin: 0;
+    }
+
+    .social-links {
+      justify-content: center;
+      margin-left: 50px;
+    }
   }
